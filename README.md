@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Front-end <br />
-  🎯 Foco em React, TypeScript <br />
+  🎯 Foco em React, TypeScript e UI/UX<br />
   🚀 Apaixonado por transformar ideias em interfaces reais <br />
 </p>
 ---
