@@ -20,7 +20,15 @@ Sou movido por desafios que exigem criatividade, desempenho e código limpo.
 ---
 ### 🚧 Projetos em destaque
 
-### 🛠️ Habilidades
+### 🚀 Habilidades & Ferramentas
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
 
 ### 📫 Contato
 Email: diegobatista1376@icloud.com
